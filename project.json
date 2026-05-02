@@ -1,0 +1,25 @@
+{
+  "overview": "A Slack-style office management web app with passwordless auth, company groups/channels, integrated chat and task management, and role-based dashboards. Black and white Material 3 design.",
+  "features": [
+    "Passwordless email + OTP authentication",
+    "Role-based dashboards (Owner, Admin, Manager, Employee)",
+    "Slack-style sidebar with nested group channels",
+    "Integrated chat and task management per group",
+    "KPI cards and reporting with task progress analytics",
+    "Mobile-first responsive design with bottom navigation",
+    "Material 3 design with black and white palette",
+    "Skeleton loaders, toast notifications, and smooth animations"
+  ],
+  "category": "productivity",
+  "tags": [
+    "slack-style",
+    "office-management",
+    "task-management",
+    "chat",
+    "role-based",
+    "material3",
+    "black-white",
+    "mobile-first"
+  ],
+  "last_updated": "2026-05-02T10:44:42.818Z"
+}
