@@ -58,7 +58,7 @@ const recentActivity = [
   },
   {
     id: 5,
-    text: "Alex Rivera created engineering group",
+    text: "Fuhad created engineering group",
     time: "3h ago",
     icon: Plus,
   },
